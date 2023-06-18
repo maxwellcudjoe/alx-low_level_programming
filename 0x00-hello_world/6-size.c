@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - A program that prints a type of various types
- * return 0 (sucess)
+ * return Always 0 (sucess)
  */
 int main(void)
 {
