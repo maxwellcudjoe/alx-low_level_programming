@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *'main' - Entry point  A program that prints a type of various types.
- *'Return: Always 0 (sucess)'
+ *main - Entry point  
+ *Return: Always 0 (sucess)
  */
 int main(void)
 {
