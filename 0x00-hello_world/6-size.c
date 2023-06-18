@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that prints a type of various types
+ * main - Entry point  A program that prints a type of various types
  * return Always 0 (sucess)
  */
 int main(void)
